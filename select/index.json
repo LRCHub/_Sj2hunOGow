@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "hanataba",
+  "base_artist": "milet",
+  "createdAt": "2026-02-14T08:46:17.151093Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shiroi Hanataba",
+      "artist": "Junko Yagami",
+      "has_synced": false,
+      "path": "select/01_Shiroi_Hanataba_Junko_Yagami.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hanataba Wo Kimini",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/02_Hanataba_Wo_Kimini_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hanataba (Instrumental)",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/03_Hanataba_(Instrumental)_back_number.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hanataba",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/04_Hanataba_back_number.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hanataba",
+      "artist": "Back Number",
+      "has_synced": true,
+      "path": "select/05_Hanataba_Back_Number.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hanataba",
+      "artist": "Back Number",
+      "has_synced": true,
+      "path": "select/06_Hanataba_Back_Number.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hanataba o Kimini [花束を君に]",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/07_Hanataba_o_Kimini_[花束を君に]_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hanataba Wo Kimini (花束を君に)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/08_Hanataba_Wo_Kimini_(花束を君に)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nikushimi wo Hanataba ni Kaete (憎しみを花束に代えて)",
+      "artist": "Sound Horizon",
+      "has_synced": false,
+      "path": "select/09_Nikushimi_wo_Hanataba_ni_Kaete_(憎しみを花束に代えて)_Sound_Horizon.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bokura Hanataba Mitai Ni Yorisotte",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/10_Bokura_Hanataba_Mitai_Ni_Yorisotte_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bokura Hanataba Mitai Ni Yorisotte - Hitorideni",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/11_Bokura_Hanataba_Mitai_Ni_Yorisotte_-_Hitorideni_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Umi to Hanataba",
+      "artist": "Kinokoteikoku",
+      "has_synced": true,
+      "path": "select/12_Umi_to_Hanataba_Kinokoteikoku.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ame ni kiss no hanataba wo - Yawara! OP 2",
+      "artist": "Miki Imai",
+      "has_synced": true,
+      "path": "select/13_Ame_ni_kiss_no_hanataba_wo_-_Yawara!_OP_2_Miki_Imai.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bokura Hanataba Mirai ni Yorisotte",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/14_Bokura_Hanataba_Mirai_ni_Yorisotte_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "36 ITSUKA NO HANATABA",
+      "artist": "Hanako Oku",
+      "has_synced": false,
+      "path": "select/15_36_ITSUKA_NO_HANATABA_Hanako_Oku.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hanataba Wo Kimini",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/16_Hanataba_Wo_Kimini_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hanataba Wo Kimini",
+      "artist": "宇多田ヒカル",
+      "has_synced": false,
+      "path": "select/17_Hanataba_Wo_Kimini_宇多田ヒカル.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hanataba o Kimini",
+      "artist": "Hikaru Utada",
+      "has_synced": false,
+      "path": "select/18_Hanataba_o_Kimini_Hikaru_Utada.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "hanataba",
+      "artist": "milet",
+      "has_synced": true,
+      "path": "select/19_hanataba_milet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "hanataba",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/pl_01_hanataba_milet.txt"
+    }
+  ]
+}
